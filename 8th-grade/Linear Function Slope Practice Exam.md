@@ -1,7 +1,5 @@
 # **Linear Function Slope Practice Exam**
-## Certainly! Here's a list of key points from the 30 questions about the concept of slope and linear equations:
-
-**Exam Key Points:**
+## **Exam Key Points:**
 
 1. **Understanding Slope** 
    - The slope represents the rate of change between two points on a line. It can be calculated using the formula: \(m = \frac{y_2 - y_1}{x_2 - x_1}\).
