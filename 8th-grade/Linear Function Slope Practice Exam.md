@@ -120,8 +120,6 @@ D) \(a = 2b + c - 2d\)
 \[2 = \frac{d - b}{c - a}\]
 解d，我们得到选项A) \(d = 2c + b - 2a\).
 
-[... *Note: For brevity, only four questions are shown above.* ...]
-
 **5. (Medium)**
 What is the slope of a horizontal line?
 **Solution:** 
