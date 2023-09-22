@@ -1,8 +1,6 @@
 # **Linear Function Slope Practice Exam**
 ## **Exam Key Points:**
 
-# Exam Key Points:
-
 ## 1. Understanding Slope
 - The slope represents the rate of change between two points on a line. It can be calculated using the formula: \(m = \frac{y_2 - y_1}{x_2 - x_1}\).
 - **理解斜率**
