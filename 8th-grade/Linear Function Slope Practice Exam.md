@@ -1,72 +1,74 @@
 # **Linear Function Slope Practice Exam**
 ## **Exam Key Points:**
 
-1. **Understanding Slope** 
-   - The slope represents the rate of change between two points on a line. It can be calculated using the formula: \(m = \frac{y_2 - y_1}{x_2 - x_1}\).
-   - **理解斜率**
-     - 斜率表示线上两点之间的变化率。可以使用以下公式计算: \(m = \frac{y_2 - y_1}{x_2 - x_1}\)。
+# Exam Key Points:
 
-2. **Point-Slope Form** 
-   - The equation of a line can be written in point-slope form as: \(y - y_1 = m(x - x_1)\).
-   - **点斜式**
-     - 线的方程可以写成点斜式：\(y - y_1 = m(x - x_1)\)。
+## 1. Understanding Slope
+- The slope represents the rate of change between two points on a line. It can be calculated using the formula: \(m = \frac{y_2 - y_1}{x_2 - x_1}\).
+- **理解斜率**
+  - 斜率表示线上两点之间的变化率。可以使用以下公式计算: \(m = \frac{y_2 - y_1}{x_2 - x_1}\)。
 
-3. **Y-Intercept** 
-   - The point where the line crosses the y-axis.
-   - **Y轴截距**
-     - 线与y轴交点的位置。
+## 2. Point-Slope Form
+- The equation of a line can be written in point-slope form as: \(y - y_1 = m(x - x_1)\).
+- **点斜式**
+  - 线的方程可以写成点斜式：\(y - y_1 = m(x - x_1)\)。
 
-4. **Perpendicular Lines** 
-   - Two lines are perpendicular if the product of their slopes is -1. The slope of a line perpendicular to another is the negative reciprocal of the original line's slope.
-   - **垂直线**
-     - 如果两线的斜率的乘积为-1，则两线垂直。与另一线垂直的线的斜率是原始线斜率的负倒数。
+## 3. Y-Intercept
+- The point where the line crosses the y-axis.
+- **Y轴截距**
+  - 线与y轴交点的位置。
 
-5. **Parallel Lines** 
-   - Two lines are parallel if they have the same slope but different y-intercepts.
-   - **平行线**
-     - 如果两线有相同的斜率但不同的y轴截距，那么它们是平行的。
+## 4. Perpendicular Lines
+- Two lines are perpendicular if the product of their slopes is -1. The slope of a line perpendicular to another is the negative reciprocal of the original line's slope.
+- **垂直线**
+  - 如果两线的斜率的乘积为-1，则两线垂直。与另一线垂直的线的斜率是原始线斜率的负倒数。
 
-6. **Slope-Intercept Form** 
-   - The equation of a line can be expressed as: \(y = mx + b\), where m is the slope and b is the y-intercept.
-   - **斜率截距式**
-     - 线的方程可以表示为：\(y = mx + b\)，其中m是斜率，b是y轴截距。
+## 5. Parallel Lines
+- Two lines are parallel if they have the same slope but different y-intercepts.
+- **平行线**
+  - 如果两线有相同的斜率但不同的y轴截距，那么它们是平行的。
 
-7. **Finding Equation Using Slope and a Point** 
-   - Given a point and the slope, the equation of the line can be found.
-   - **使用斜率和点找方程**
-     - 给定一个点和斜率，可以找到线的方程。
+## 6. Slope-Intercept Form
+- The equation of a line can be expressed as: \(y = mx + b\), where m is the slope and b is the y-intercept.
+- **斜率截距式**
+  - 线的方程可以表示为：\(y = mx + b\)，其中m是斜率，b是y轴截距。
 
-8. **Using Algebra to Rearrange Equations** 
-   - Convert standard form to slope-intercept form or vice versa.
-   - **使用代数重新排列方程**
-     - 将标准形式转换为斜率截距式，反之亦然。
+## 7. Finding Equation Using Slope and a Point
+- Given a point and the slope, the equation of the line can be found.
+- **使用斜率和点找方程**
+  - 给定一个点和斜率，可以找到线的方程。
 
-9. **Horizontal and Vertical Lines**
-   - The slope of a horizontal line is \(0\) and its equation is of the form \(y = c\).
-   - The slope of a vertical line is undefined, and its equation is of the form \(x = c\).
-   - **水平线和垂直线**
-     - 水平线的斜率为 \(0\)，其方程的形式为 \(y = c\)。
-     - 垂直线的斜率是未定义的，其方程的形式为 \(x = c\)。
+## 8. Using Algebra to Rearrange Equations
+- Convert standard form to slope-intercept form or vice versa.
+- **使用代数重新排列方程**
+  - 将标准形式转换为斜率截距式，反之亦然。
 
-10. **Determining Slope from Graph**
-   - Given a graphed line, the slope can be determined by selecting two points on the line and applying the slope formula.
-   - **从图上确定斜率**
-     - 给定一条绘制的线，可以通过选择线上的两点并应用斜率公式来确定斜率。
+## 9. Horizontal and Vertical Lines
+- The slope of a horizontal line is \(0\) and its equation is of the form \(y = c\).
+- The slope of a vertical line is undefined, and its equation is of the form \(x = c\).
+- **水平线和垂直线**
+  - 水平线的斜率为 \(0\)，其方程的形式为 \(y = c\)。
+  - 垂直线的斜率是未定义的，其方程的形式为 \(x = c\)。
 
-11. **Interpretation of Slope in Real-world Contexts**
-   - Understanding the meaning of slope in the context of word problems or real-world situations (e.g., speed, rate of increase/decrease).
-   - **在实际情境中解释斜率**
-     - 在词问题或实际情境中理解斜率的含义（例如，速度，增加/减少的速率）。
+## 10. Determining Slope from Graph
+- Given a graphed line, the slope can be determined by selecting two points on the line and applying the slope formula.
+- **从图上确定斜率**
+  - 给定一条绘制的线，可以通过选择线上的两点并应用斜率公式来确定斜率。
 
-12. **Connecting Slope to Linear Relationships**
-   - Recognizing that a constant rate of change corresponds to a linear relationship and thus a straight line on a graph.
-   - **将斜率与线性关系连接起来**
-     - 认识到恒定的变化率对应于线性关系，因此在图上是一条直线。
+## 11. Interpretation of Slope in Real-world Contexts
+- Understanding the meaning of slope in the context of word problems or real-world situations (e.g., speed, rate of increase/decrease).
+- **在实际情境中解释斜率**
+  - 在词问题或实际情境中理解斜率的含义（例如，速度，增加/减少的速率）。
 
-13. **Using Slope for Prediction**
-   - Given a linear model, using the slope to predict other values not present in the given data.
-   - **使用斜率进行预测**
-     - 给定一个线性模型，使用斜率来预测给定数据中不存在的其他值。
+## 12. Connecting Slope to Linear Relationships
+- Recognizing that a constant rate of change corresponds to a linear relationship and thus a straight line on a graph.
+- **将斜率与线性关系连接起来**
+  - 认识到恒定的变化率对应于线性关系，因此在图上是一条直线。
+
+## 13. Using Slope for Prediction
+- Given a linear model, use the slope to predict other values not present in the given data.
+- **使用斜率进行预测**
+  - 给定一个线性模型，使用斜率来预测给定数据中不存在的其他值。
 
 ## **Key Points for this Test:**
 
