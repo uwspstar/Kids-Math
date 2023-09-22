@@ -1,4 +1,10 @@
 # **Linear Function Slope Practice Exam**
+
+- Linear Equations - Algebra https://www.youtube.com/watch?v=Ft2_QtXAnh8
+- Slope Intercept Form Y=mx+b | Algebra https://www.youtube.com/watch?v=qXX47hS2KLw
+- Linear Functions https://www.youtube.com/watch?v=BtcKotD6Ni8
+- How To Find The X and Y Intercepts of a Line https://www.youtube.com/watch?v=_-LvA1xlQLs
+
 ## **Exam Key Points:**
 
 ## 1. Understanding Slope
