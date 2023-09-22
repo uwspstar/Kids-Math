@@ -79,7 +79,6 @@
 1. **Understanding of Basic Slope Concept (基础斜率概念理解)**: This includes knowing the formula and being able to compute the slope given two points.
 2. **Application of Point-Slope Form (点斜式的应用)**: This requires students to find the equation of a line given a point and a slope.
 3. **Knowledge of Perpendicular and Parallel Slopes (垂直和平行斜率的知识)**: Recognizing that perpendicular slopes are negative reciprocals and parallel lines have the same slope.
-4. **SAT-Style Questions (SAT风格的问题)**: These usually involve multiple steps or tricky algebraic manipulations.
 
 
 **1. (Medium)**
