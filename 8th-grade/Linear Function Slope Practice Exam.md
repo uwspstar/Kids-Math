@@ -8,7 +8,7 @@
 
 ## **Linear equations may take forms other than** `y = ax + b`. The most common forms of linear equations are explained below:
 
-| **Linear equations** | -------- | 
+|  | **Linear equations** | 
 | -------- | -------- | 
 | 1. | **Standard Form:** `Ax + By = C`, in which the slope is given by `m = -A/B`, and the y-intercept is given by `C/B`. |
 | 2. | **Slope-Intercept Form:** `y = mx + b`, where the slope is `m` and the y-intercept is `b`. | 
