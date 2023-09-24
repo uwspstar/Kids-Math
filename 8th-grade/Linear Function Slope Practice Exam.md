@@ -5,6 +5,22 @@
 - Linear Functions https://www.youtube.com/watch?v=BtcKotD6Ni8
 - How To Find The X and Y Intercepts of a Line https://www.youtube.com/watch?v=_-LvA1xlQLs
 
+**Linear equations may take forms other than** `y = ax + b`. The most common forms of linear equations are explained below:
+
+1. **Standard Form:** `Ax + By = C`, in which the slope is given by `m = -A/B`, and the y-intercept is given by `C/B`.
+
+2. **Slope-Intercept Form:** `y = mx + b`, where the slope is `m` and the y-intercept is `b`.
+
+3. **Point-Slope Form:** `y - y1 = m(x - x1)`, where the slope is `m`, and `(x1, y1)` is any point on the chosen line.
+
+4. **Two-Point Form:** `(y - y1) / (x - x1) = (y2 - y1) / (x2 - x1)`, where `(x1, y1)` and `(x2, y2)` are any two distinct points on the chosen line. Note that the slope is given by `m = (y2 - y1) / (x2 - x1)`.
+
+5. **Intercept Form:** `x/x1 + y/y1 = 1`, in which `x1` is the x-intercept and `y1` is the y-intercept.
+
+These five ways to write linear equations are all useful in different circumstances. Depending on the given information, it may be easier to use one of these forms over another.
+
+
+
 ## **Exam Key Points:**
 
 ## 1. Understanding Slope
