@@ -1,4 +1,6 @@
 # Recursive formula for an arithmetic sequence for an 8th grader.
+- https://www.youtube.com/watch?v=ViLt2WI0XSg
+- https://www.youtube.com/watch?v=ViLt2WI0XSg
 - https://www.youtube.com/watch?app=desktop&v=HTjYJImyPRw
 - https://www.youtube.com/watch?v=IFHZQ6MaG6w
 - https://query.libretexts.org/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87/%E4%B8%AD%E7%BA%A7%E4%BB%A3%E6%95%B0_(OpenStax)/12%3A_12%EF%BC%9A%E5%BA%8F%E5%88%97%E3%80%81%E5%BA%8F%E5%88%97%E5%92%8C%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86/12.03%3A_%E7%AE%97%E6%9C%AF%E5%BA%8F%E5%88%97
