@@ -1,4 +1,4 @@
-# recursive formula for an arithmetic sequence for an 8th grader.
+# Recursive formula for an arithmetic sequence for an 8th grader.
 
 ### What is an Arithmetic Sequence?
 
