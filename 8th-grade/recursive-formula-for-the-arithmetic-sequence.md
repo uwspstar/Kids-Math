@@ -12,8 +12,7 @@ A `recursive formula` is a way to represent a sequence by expressing each term a
 
 ### Recursive Formula for Arithmetic Sequence:
 
-For an arithmetic sequence, the recursive formula can be given as:
-\[ a_{n} = a_{n-1} + d \]
+For an arithmetic sequence, the recursive formula can be given as: ***\[ a_{n} = a_{n-1} + d \]***
 
 Where:
 - \( a_{n} \) is the \( n^{th} \) term of the sequence.
