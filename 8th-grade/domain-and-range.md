@@ -1,4 +1,11 @@
 # Domain and Range
+- https://www.youtube.com/watch?v=KirGQOwjBVI
+- https://www.youtube.com/watch?v=Si2vmzUWfJE
+- https://www.youtube.com/watch?v=GY6Q2f2kvY0
+- https://www.youtube.com/watch?v=Bn-UP0Jk4_M
+- https://www.youtube.com/watch?v=KyOQhC8ctxc
+
+
 Domain (定义域)
 Definition in English:
 The domain of a function is the set of all possible input values (often "x" values) that the function can accept without breaking any rules.
