@@ -13,7 +13,7 @@ The range of a function is the set of all possible output values (often "y" valu
 Definition in Chinese (Simplified):
 函数的值域是使用该函数可能得到的所有可能的输出值（通常是“y”值）的集合。
 
-Key Points to Understand Domain and Range:
+## Key Points to Understand Domain and Range:
 Domain (定义域):
 
 Includes all allowable x-values.
