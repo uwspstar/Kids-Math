@@ -1,9 +1,9 @@
 # Domain and Range
-- https://www.youtube.com/watch?v=KirGQOwjBVI
+- How To Find The Range of a Function https://www.youtube.com/watch?v=KirGQOwjBVI
 - https://www.youtube.com/watch?v=Si2vmzUWfJE
-- https://www.youtube.com/watch?v=GY6Q2f2kvY0
-- https://www.youtube.com/watch?v=Bn-UP0Jk4_M
-- https://www.youtube.com/watch?v=KyOQhC8ctxc
+- How To Find The Range of a Function https://www.youtube.com/watch?v=GY6Q2f2kvY0
+- Mr. S Algebra 1 Class Domain and Range Graph (08/29/22) https://www.youtube.com/watch?v=Bn-UP0Jk4_M
+- Domain and Range Functions & Graphs - Linear, Quadratic, Rational, Logarithmic & Square Root https://www.youtube.com/watch?v=KyOQhC8ctxc
 
 
 Domain (定义域)
