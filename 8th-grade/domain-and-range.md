@@ -1,3 +1,4 @@
+# Domain and Range
 Domain (定义域)
 Definition in English:
 The domain of a function is the set of all possible input values (often "x" values) that the function can accept without breaking any rules.
@@ -17,467 +18,189 @@ Domain (定义域):
 
 Includes all allowable x-values.
 To find it, determine the values for which the function is defined.
+
 Range (值域):
 
 Includes all resultant y-values.
 Determine the values that y can take on as x varies within its domain.
-Example and Solution:
-Example 1:
 
-Consider the function 
-�
-(
-�
-)
-=
-�
-2
-f(x)=x 
-2
- .
+### Example 1: \(f(x) = x^2\)
+**Domain:** 
+- **English:** All real numbers \(\mathbb{R}\)
+- **Chinese:** 所有实数 \(\mathbb{R}\)
 
-Finding the Domain:
+**Range:** 
+- **English:** \(y \geq 0\) (All non-negative real numbers)
+- **Chinese:** \(y \geq 0\) (所有非负实数)
 
-In English: The domain is all real numbers because 
-�
-x can be any real number without violating any mathematical rules.
-In Chinese: 定义域是所有的实数，因为 
-�
-x 可以是任何不违反数学规则的实数。
-Finding the Range:
+### Example 2: \(g(x) = \sqrt{x}\)
+**Domain:** 
+- **English:** \(x \geq 0\)
+- **Chinese:** \(x \geq 0\)
 
-In English: The range is all non-negative real numbers (
-�
-≥
-0
-y≥0) because squaring any real number (whether positive, negative, or zero) gives a non-negative result.
-In Chinese: 值域是所有的非负实数 (
-�
-≥
-0
-y≥0)，因为平方任何实数（无论是正数、负数还是零）都会得到一个非负的结果。
-Example 2:
+**Range:** 
+- **English:** \(y \geq 0\)
+- **Chinese:** \(y \geq 0\)
 
-Consider the function 
-�
-(
-�
-)
-=
-�
-g(x)= 
-x
-​
- .
+### Example 3: \(h(x) = x + 3\)
+**Domain:** 
+- **English:** \(\mathbb{R}\) (All real numbers)
+- **Chinese:** \(\mathbb{R}\) (所有实数)
 
-Finding the Domain:
+**Range:** 
+- **English:** \(\mathbb{R}\) (All real numbers)
+- **Chinese:** \(\mathbb{R}\) (所有实数)
 
-In English: The domain is all non-negative real numbers (
-�
-≥
-0
-x≥0) because you cannot take the square root of a negative number in the real number system.
-In Chinese: 定义域是所有的非负实数 (
-�
-≥
-0
-x≥0)，因为在实数系统中不能取负数的平方根。
-Finding the Range:
+### Example 4: \(j(x) = \frac{1}{x}\)
+**Domain:** 
+- **English:** \(x \neq 0\) (All real numbers except 0)
+- **Chinese:** \(x \neq 0\) (除0外的所有实数)
 
-In English: The range is also all non-negative real numbers (
-�
-≥
-0
-y≥0) because the square root of any non-negative real number is non-negative.
-In Chinese: 值域也是所有的非负实数 (
-�
-≥
-0
-y≥0)，因为任何非负实数的平方根也是非负的
+**Range:** 
+- **English:** \(y \neq 0\) (All real numbers except 0)
+- **Chinese:** \(y \neq 0\) (除0外的所有实数)
 
-Example 1: 
-�
-(
-�
-)
-=
-�
-2
-f(x)=x 
-2
- 
-Domain:
+### Example 5: \(k(x) = \frac{1}{x^2}\)
+**Domain:** 
+- **English:** \(x \neq 0\)
+- **Chinese:** \(x \neq 0\)
 
-English: All real numbers (
-�
-R)
-Chinese: 所有实数 (
-�
-R)
-Range:
+**Range:** 
+- **English:** \(y > 0\) (All positive real numbers)
+- **Chinese:** \(y > 0\) (所有正实数)
 
-English: 
-�
-≥
-0
-y≥0 (All non-negative real numbers)
-Chinese: 
-�
-≥
-0
-y≥0 (所有非负实数)
-Example 2: 
-�
-(
-�
-)
-=
-�
-g(x)= 
-x
-​
- 
-Domain:
+### Example 6: \(m(x) = -2x + 1\)
+**Domain:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
 
-English: 
-�
-≥
-0
-x≥0
-Chinese: 
-�
-≥
-0
-x≥0
-Range:
+**Range:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
 
-English: 
-�
-≥
-0
-y≥0
-Chinese: 
-�
-≥
-0
-y≥0
-Example 3: 
-ℎ
-(
-�
-)
-=
-�
-+
-3
-h(x)=x+3
-Domain:
+### Example 7: \(n(x) = x^3\)
+**Domain:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
 
-English: 
-�
-R (All real numbers)
-Chinese: 
-�
-R (所有实数)
-Range:
+**Range:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
 
-English: 
-�
-R (All real numbers)
-Chinese: 
-�
-R (所有实数)
-Example 4: 
-�
-(
-�
-)
-=
-1
-�
-j(x)= 
-x
-1
-​
- 
-Domain:
+### Example 8: \(p(x) = \frac{1}{x+1}\)
+**Domain:** 
+- **English:** \(x \neq -1\)
+- **Chinese:** \(x \neq -1\)
 
-English: 
-�
-≠
-0
-x
-
-=0 (All real numbers except 0)
-Chinese: 
-�
-≠
-0
-x
-
-=0 (除0外的所有实数)
-Range:
+**Range:** 
+- **English:** \(y \neq 0\)
+- **Chinese:** \(y \neq 0\)
 
-English: 
-�
-≠
-0
-y
-
-=0 (All real numbers except 0)
-Chinese: 
-�
-≠
-0
-y
-
-=0 (除0外的所有实数)
-Example 5: 
-�
-(
-�
-)
-=
-1
-�
-2
-k(x)= 
-x 
-2
- 
-1
-​
- 
-Domain:
+### Example 9: \(q(x) = \sqrt{x-2}\)
+**Domain:** 
+- **English:** \(x \geq 2\)
+- **Chinese:** \(x \geq 2\)
 
-English: 
-�
-≠
-0
-x
-
-=0
-Chinese: 
-�
-≠
-0
-x
-
-=0
-Range:
+**Range:** 
+- **English:** \(y \geq 0\)
+- **Chinese:** \(y \geq 0\)
 
-English: 
-�
->
-0
-y>0 (All positive real numbers)
-Chinese: 
-�
->
-0
-y>0 (所有正实数)
-Example 6: 
-�
-(
-�
-)
-=
-−
-2
-�
-+
-1
-m(x)=−2x+1
-Domain:
+### Example 10: \(r(x) = \frac{1}{x^2 - 1}\)
+**Domain:** 
+- **English:** \(x \neq 1\) and \(x \neq -1\)
+- **Chinese:** \(x \neq 1\) 且 \(x \neq -1\)
 
-English: 
-�
-R
-Chinese: 
-�
-R
-Range:
+**Range:** 
+- **English:** \(y \neq 0\)
+- **Chinese:** \(y \neq 0\)
 
-English: 
-�
-R
-Chinese: 
-�
-R
-Example 7: 
-�
-(
-�
-)
-=
-�
-3
-n(x)=x 
-3
- 
-Domain:
+### Example 11: \(f_1(x) = 2x + 5\)
+**Domain:** 
+- **English:** \(\mathbb{R}\) (All real numbers)
+- **Chinese:** \(\mathbb{R}\) (所有实数)
 
-English: 
-�
-R
-Chinese: 
-�
-R
-Range:
+**Range:** 
+- **English:** \(\mathbb{R}\) (All real numbers)
+- **Chinese:** \(\mathbb{R}\) (所有实数)
 
-English: 
-�
-R
-Chinese: 
-�
-R
-Example 8: 
-�
-(
-�
-)
-=
-1
-�
-+
-1
-p(x)= 
-x+1
-1
-​
- 
-Domain:
+### Example 12: \(g_1(x) = \frac{3}{x - 4}\)
+**Domain:** 
+- **English:** \(x \neq 4\)
+- **Chinese:** \(x \neq 4\)
 
-English: 
-�
-≠
-−
-1
-x
-
-=−1
-Chinese: 
-�
-≠
-−
-1
-x
-
-=−1
-Range:
+**Range:** 
+- **English:** \(y \neq 0\)
+- **Chinese:** \(y \neq 0\)
 
-English: 
-�
-≠
-0
-y
-
-=0
-Chinese: 
-�
-≠
-0
-y
-
-=0
-Example 9: 
-�
-(
-�
-)
-=
-�
-−
-2
-q(x)= 
-x−2
-​
- 
-Domain:
+### Example 13: \(h_1(x) = x^2 + 4x + 4\)
+**Domain:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
 
-English: 
-�
-≥
-2
-x≥2
-Chinese: 
-�
-≥
-2
-x≥2
-Range:
+**Range:** 
+- **English:** \(y \geq 4\)
+- **Chinese:** \(y \geq 4\)
 
-English: 
-�
-≥
-0
-y≥0
-Chinese: 
-�
-≥
-0
-y≥0
-Example 10: 
-�
-(
-�
-)
-=
-1
-�
-2
-−
-1
-r(x)= 
-x 
-2
- −1
-1
-​
- 
-Domain:
+### Example 14: \(j_1(x) = \sqrt{5 - x}\)
+**Domain:** 
+- **English:** \(x \leq 5\)
+- **Chinese:** \(x \leq 5\)
 
-English: 
-�
-≠
-1
-x
-
-=1 and 
-�
-≠
-−
-1
-x
-
-=−1
-Chinese: 
-�
-≠
-1
-x
-
-=1 且 
-�
-≠
-−
-1
-x
-
-=−1
-Range:
+**Range:** 
+- **English:** \(y \geq 0\)
+- **Chinese:** \(y \geq 0\)
 
-English: 
-�
-≠
-0
-y
-
-=0
-Chinese: 
-�
-≠
-0
-y
-
-=0
+### Example 15: \(k_1(x) = \frac{1}{x^2 + 1}\)
+**Domain:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
+
+**Range:** 
+- **English:** \(0 < y \leq 1\)
+- **Chinese:** \(0 < y \leq 1\)
+
+### Example 16: \(m_1(x) = x^3 - x\)
+**Domain:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
+
+**Range:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
+
+### Example 17: \(n_1(x) = \frac{x}{x^2 - 9}\)
+**Domain:** 
+- **English:** \(x \neq 3\) and \(x \neq -3\)
+- **Chinese:** \(x \neq 3\) 且 \(x \neq -3\)
+
+**Range:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
+
+### Example 18: \(p_1(x) = |x - 2|\)
+**Domain:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
+
+**Range:** 
+- **English:** \(y \geq 0\)
+- **Chinese:** \(y \geq 0\)
+
+### Example 19: \(q_1(x) = e^x\)
+**Domain:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
+
+**Range:** 
+- **English:** \(y > 0\)
+- **Chinese:** \(y > 0\)
+
+### Example 20: \(r_1(x) = \ln(x)\)
+**Domain:** 
+- **English:** \(x > 0\)
+- **Chinese:** \(x > 0\)
+
+**Range:** 
+- **English:** \(\mathbb{R}\)
+- **Chinese:** \(\mathbb{R}\)
+
