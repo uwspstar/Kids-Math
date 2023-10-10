@@ -1,7 +1,13 @@
 # Transformation Rules Explanation
+- https://www.onlinemathlearning.com/parent-functions.html
+- https://www.youtube.com/watch?v=Qt6X5KNbZ5c&t=608s
+- https://www.youtube.com/watch?v=spLUWVPBKkg
+- https://www.youtube.com/watch?v=GqHWdTLL8Qw
+
+
 - Mathematical transformations involve altering an original function or figure, often referred to as the "parent" function or figure, to create a new function or figure. There are several standard transformations, each of which has its own rule for modification.
 - 数学变换涉及改变一个原始的函数或图形，通常被称为“父”函数或图形，以创建一个新的函数或图形。有几种标准的变换，每种都有自己的修改规则。
-# Transformation Rules
+
 
 ## 1. Vertical Shifts 上下平移
 ### English
