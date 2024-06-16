@@ -31,9 +31,7 @@
 | **6月24日** | 下午2点       | Croatia vs Italy 克罗地亚对阵意大利          | FOX     |
 |        | 下午2点       | Albania vs Spain 阿尔巴尼亚对阵西班牙         | FS1     |
 | **6月25日** | 上午11点      | Netherlands vs Austria 荷兰对阵奥地利        | FS1     |
-|        | 上午11点      | France vs Poland 法国
-
-对阵波兰                 | FOX     |
+|        | 上午11点      | France vs Poland 法国对阵波兰                 | FOX     |
 |        | 下午2点       | England vs Slovenia 英格兰对阵斯洛文尼亚      | FOX     |
 |        | 下午2点       | Denmark vs Serbia 丹麦对阵塞尔维亚            | FS1     |
 | **6月26日** | 上午11点      | Slovakia vs Romania 斯洛伐克对阵罗马尼亚      | FS1     |
