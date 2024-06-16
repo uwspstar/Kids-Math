@@ -1,9 +1,5 @@
 # teaching my son math 
 
-
-
-My apologies for the oversight. Here's the revised schedule with the correct Central Standard Time (CST), adjusted from Eastern Standard Time (EST):
-
 | Date   | Time (CST) | Match                           | Channel |
 |--------|------------|---------------------------------|---------|
 | **June 14** | 2 PM       | Germany vs Scotland             | FOX     |
