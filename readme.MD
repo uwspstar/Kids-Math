@@ -2,56 +2,61 @@
 
 | Date   | Time (CST) | Match                           | Channel |
 |--------|------------|---------------------------------|---------|
-| **June 14** | 2 PM       | Germany vs Scotland             | FOX     |
-| **June 15** | 8 AM       | Hungary vs Switzerland          |         |
-|        | 11 AM      | Spain vs Croatia                | FOX     |
-|        | 2 PM       | Italy vs Albania                | FOX     |
-| **June 16** | 8 AM       | Poland vs Netherlands           | FS1     |
-|        | 11 AM      | Slovenia vs Denmark             | FS1     |
-|        | 2 PM       | Serbia vs England               | FOX     |
-| **June 17** | 8 AM       | Romania vs Ukraine              |         |
-|        | 11 AM      | Belgium vs Slovakia             | FS1     |
-|        | 2 PM       | Austria vs France               | FOX     |
-| **June 18** | 11 AM      | Turkey vs Georgia               |         |
-|        | 2 PM       | Portugal vs Czechia             | FOX     |
-| **June 19** | 8 AM       | Croatia vs Albania              | FS1     |
-|        | 11 AM      | Germany vs Hungary              | FS1     |
-|        | 2 PM       | Scotland vs Switzerland         | FOX     |
-| **June 20** | 8 AM       | Slovenia vs Serbia              | FS1     |
-|        | 11 AM      | Denmark vs England              | FS1     |
-|        | 2 PM       | Spain vs Italy                  | FOX     |
-| **June 21** | 8 AM       | Slovakia vs Ukraine             |         |
-|        | 11 AM      | Poland vs Austria               | FS1     |
-|        | 2 PM       | Netherlands vs France           | FOX     |
-| **June 22** | 8 AM       | Georgia vs Czechia              |         |
-|        | 11 AM      | Turkey vs Portugal              | FOX     |
-|        | 2 PM       | Belgium vs Romania              | FOX     |
-| **June 23** | 2 PM       | Switzerland vs Germany          | FS1     |
-|        | 2 PM       | Scotland vs Hungary             | FOX     |
-| **June 24** | 2 PM       | Croatia vs Italy                | FOX     |
-|        | 2 PM       | Albania vs Spain                | FS1     |
-| **June 25** | 11 AM      | Netherlands vs Austria          | FS1     |
-|        | 11 AM      | France vs Poland                | FOX     |
-|        | 2 PM       | England vs Slovenia             | FOX     |
-|        | 2 PM       | Denmark vs Serbia               | FS1     |
-| **June 26** | 11 AM      | Slovakia vs Romania             | FS1     |
-|        | 11 AM      | Ukraine vs Belgium              | FOX     |
-|        | 2 PM       | Czechia vs Turkey               | FS1     |
-|        | 2 PM       | Georgia vs Portugal             | FOX     |
-| **Bracket Stage - Round of 16** |          |                                 |         |
-| **June 29** | 11 AM      | 2A vs 2B                       |         |
-|        | 2 PM       | 1A vs 2C                        |         |
-| **June 30** | 11 AM      | 1C vs 3D/E/F                    |         |
-|        | 2 PM       | 1B vs 3A/D/E/F                  |         |
-| **July 1**  | 11 AM      | 2D vs 2E                       |         |
-|        | 2 PM       | 1F vs 3A/B/C                    |         |
-| **July 2**  | 11 AM      | 1E vs 3A/B/C/D                  |         |
-|        | 2 PM       | 1D vs 2F                        |         |
-| **Quarterfinals** |         |                                 |         |
-| **July 5**  | 11 AM      | W39 vs W37                      |         |
-|        | 2 PM       | W41 vs W42                      |         |
-| **July 6**  | 11 AM      | W40 vs W38                      |         |
-|        | 2 PM       | W43 vs W44                      |         |
-| **Semifinals** |         |                                 |         |
-| **July 9**  | 2 PM       | W45 vs W46                      |         |
-| **July 10**
+| **6月14日** | 下午2点       | Germany vs Scotland 德国对阵苏格兰           | FOX     |
+| **6月15日** | 上午8点       | Hungary vs Switzerland 匈牙利对阵瑞士        |         |
+|        | 上午11点      | Spain vs Croatia 西班牙对阵克罗地亚          | FOX     |
+|        | 下午2点       | Italy vs Albania 意大利对阵阿尔巴尼亚        | FOX     |
+| **6月16日** | 上午8点       | Poland vs Netherlands 波兰对阵荷兰          | FS1     |
+|        | 上午11点      | Slovenia vs Denmark 斯洛文尼亚对阵丹麦      | FS1     |
+|        | 下午2点       | Serbia vs England 塞尔维亚对阵英格兰        | FOX     |
+| **6月17日** | 上午8点       | Romania vs Ukraine 罗马尼亚对阵乌克兰        |         |
+|        | 上午11点      | Belgium vs Slovakia 比利时对阵斯洛伐克       | FS1     |
+|        | 下午2点       | Austria vs France 奥地利对阵法国             | FOX     |
+| **6月18日** | 上午11点      | Turkey vs Georgia 土耳其对阵格鲁吉亚        |         |
+|        | 下午2点       | Portugal vs Czechia 葡萄牙对阵捷克            | FOX     |
+| **6月19日** | 上午8点       | Croatia vs Albania 克罗地亚对阵阿尔巴尼亚    | FS1     |
+|        | 上午11点      | Germany vs Hungary 德国对阵匈牙利            | FS1     |
+|        | 下午2点       | Scotland vs Switzerland 苏格兰对阵瑞士       | FOX     |
+| **6月20日** | 上午8点       | Slovenia vs Serbia 斯洛文尼亚对阵塞尔维亚   | FS1     |
+|        | 上午11点      | Denmark vs England 丹麦对阵英格兰            | FS1     |
+|        | 下午2点       | Spain vs Italy 西班牙对阵意大利               | FOX     |
+| **6月21日** | 上午8点       | Slovakia vs Ukraine 斯洛伐克对阵乌克兰       |         |
+|        | 上午11点      | Poland vs Austria 波兰对阵奥地利             | FS1     |
+|        | 下午2点       | Netherlands vs France 荷兰对阵法国           | FOX     |
+| **6月22日** | 上午8点       | Georgia vs Czechia 格鲁吉亚对阵捷克          |         |
+|        | 上午11点      | Turkey vs Portugal 土耳其对阵葡萄牙          | FOX     |
+|        | 下午2点       | Belgium vs Romania 比利时对阵罗马尼亚         | FOX     |
+| **6月23日** | 下午2点       | Switzerland vs Germany 瑞士对阵德国          | FS1     |
+|        | 下午2点       | Scotland vs Hungary 苏格兰对阵匈牙利          | FOX     |
+| **6月24日** | 下午2点       | Croatia vs Italy 克罗地亚对阵意大利          | FOX     |
+|        | 下午2点       | Albania vs Spain 阿尔巴尼亚对阵西班牙         | FS1     |
+| **6月25日** | 上午11点      | Netherlands vs Austria 荷兰对阵奥地利        | FS1     |
+|        | 上午11点      | France vs Poland 法国
+
+对阵波兰                 | FOX     |
+|        | 下午2点       | England vs Slovenia 英格兰对阵斯洛文尼亚      | FOX     |
+|        | 下午2点       | Denmark vs Serbia 丹麦对阵塞尔维亚            | FS1     |
+| **6月26日** | 上午11点      | Slovakia vs Romania 斯洛伐克对阵罗马尼亚      | FS1     |
+|        | 上午11点      | Ukraine vs Belgium 乌克兰对阵比利时            | FOX     |
+|        | 下午2点       | Czechia vs Turkey 捷克对阵土耳其               | FS1     |
+|        | 下午2点       | Georgia vs Portugal 格鲁吉亚对阵葡萄牙         | FOX     |
+| **淘汰赛阶段 - 16强** |          |                                 |         |
+| **6月29日** | 上午11点      | 2A vs 2B                        |         |
+|        | 下午2点       | 1A vs 2C                         |         |
+| **6月30日** | 上午11点      | 1C vs 3D/E/F                     |         |
+|        | 下午2点       | 1B vs 3A/D/E/F                   |         |
+| **7月1日**  | 上午11点      | 2D vs 2E                        |         |
+|        | 下午2点       | 1F vs 3A/B/C                     |         |
+| **7月2日**  | 上午11点      | 1E vs 3A/B/C/D                   |         |
+|        | 下午2点       | 1D vs 2F                         |         |
+| **四分之一决赛** |         |                                 |         |
+| **7月5日**  | 上午11点      | W39 vs W37                       |         |
+|        | 下午2点       | W41 vs W42                       |         |
+| **7月6日**  | 上午11点      | W40 vs W38                       |         |
+|        | 下午2点       | W43 vs W44                       |         |
+| **半决赛** |         |                                 |         |
+| **7月9日**  | 下午2点       | W45 vs W46                       |         |
+| **7月10日** | 下午2点       | W47 vs W48                       |         |
+| **2024年欧洲足球锦标赛决赛** |                                 |         |
+| **7月14日** | 下午2点       | W49 vs W50                       |         |
+
